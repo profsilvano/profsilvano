@@ -1,16 +1,13 @@
-### Hi there 👋
+### BOAS VINDAS AO MEU PERFIL 🫀
 
-<!--
-**profsilvano/profsilvano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sou professor Silvano. 
+-ESTOU ESTUDANDO PELO ALURA 
 
-Here are some ideas to get you started:
+### VOCÊ PODE ENTRAR EM CONTADO COMIGO 📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+junior.silvano@escola.pr.gov.br
+
+@morais_jr_
+![](https://media.tenor.com/0R-D8XWY28AAAAAC/love-you.gif
+)
+
