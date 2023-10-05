@@ -1,7 +1,7 @@
 ### BOAS VINDAS AO MEU PERFIL 🫀
 
 sou professor Silvano. 
--ESTOU ESTUDANDO PELO ALURA 
+-ESTOU ESTUDANDO PELO [ALURA] (htttps://www.alura.com.pr) 
 
 ### VOCÊ PODE ENTRAR EM CONTADO COMIGO 📧
 
